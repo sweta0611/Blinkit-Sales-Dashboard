@@ -44,6 +44,8 @@ To analyze and visualize:
 
 ## Dashboard Preview
 dashboard 1.png
+dashboard 2.png
+dashboard 3.png
 
 ## Project Structure
 
