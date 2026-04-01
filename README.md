@@ -43,9 +43,9 @@ To analyze and visualize:
 * **Excel** – Data source and preprocessing
 
 ## Dashboard Preview
-![Dashboard](dashboard 1.png)
-![Dashboard](dashboard 2.png)
-![Dashboard](dashboard 3.png)
+![Dashboard 1](dashboard%201.png)
+![Dashboard 2](dashboard%202.png)
+![Dashboard 3](dashboard%203.png)
 
 ## Project Structure
 
